@@ -1,0 +1,6 @@
+23636 - ID cannot be negative
+37756 - ID cannot contain spaces
+39109 - Invalid day 29 for February in a non-leap year (1989)
+46161 - Invalid date format '17.04.1997-'. Date must be in one of these formats: DD.MM.YYYY, DD/MM/YYYY, DD-MM-YYYY
+49317 - Invalid date format '01.02. 1992'. Date must be in one of these formats: DD.MM.YYYY, DD/MM/YYYY, DD-MM-YYYY
+59986 - Invalid month '13' in date '11.13.1991'
